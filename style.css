@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+footer {
+    line-height: 2;
+}
